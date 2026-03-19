@@ -2,7 +2,7 @@
 <h3 align="center">Passionate about coding and exploring new things 😉🧐</h3>
 <br/>
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" />
+<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/RiteshKrChauhan/RiteshKrChauhan/main/terminal.gif" />
 🌱 Currently diving deeper into **DSA, Backend Development & System Design**
 
 - 📫 How to reach me: **riteshkumarchauhan9@gmail.com**
