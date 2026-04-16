@@ -12,7 +12,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/riteshkumarchauhan/" target="_blank"><img src="https://raw.githubusercontent.com/RiteshKrChauhan/RiteshKrChauhan/refs/heads/main/linkedin.svg" alt="Linkedin" width=50 /></a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/riteshhhhhh.__/" target="_blank"><img src="https://raw.githubusercontent.com/RiteshKrChauhan/RiteshKrChauhan/refs/heads/main/instagram.svg" alt="Instagram" width=55 /></a>&nbsp;&nbsp;
-  <a href="https://x.com/_riteshhhh" target="_blank"><img src="https://raw.githubusercontent.com/RiteshKrChauhan/RiteshKrChauhan/refs/heads/main/x.svg" alt="X" /></a>
+  <a href="https://x.com/_riteshhhh" target="_blank"><img src="https://github.com/RiteshKrChauhan/RiteshKrChauhan/blob/55761a33159bcdc1ec61d6b8030ce26757fcec59/x.svg" alt="X" width=50 /></a>
 </p>
 
 # 💻 Tech Stack:
