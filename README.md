@@ -10,9 +10,9 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/riteshkumarchauhan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/riteshhhhhh.__/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;&nbsp;
-  <a href="https://x.com/_riteshhhh" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X" /></a>
+  <a href="https://www.linkedin.com/in/riteshkumarchauhan/" target="_blank"><img src="https://raw.githubusercontent.com/RiteshKrChauhan/RiteshKrChauhan/refs/heads/main/linkedin.svg" alt="Linkedin" width=50 /></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/riteshhhhhh.__/" target="_blank"><img src="https://raw.githubusercontent.com/RiteshKrChauhan/RiteshKrChauhan/refs/heads/main/instagram.svg" alt="Instagram" width=55 /></a>&nbsp;&nbsp;
+  <a href="https://x.com/_riteshhhh" target="_blank"><img src="https://raw.githubusercontent.com/RiteshKrChauhan/RiteshKrChauhan/refs/heads/main/x.svg" alt="X" /></a>
 </p>
 
 # 💻 Tech Stack:
