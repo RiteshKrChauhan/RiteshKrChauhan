@@ -21,11 +21,11 @@
 <br/>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RiteshKrChauhan&theme=dark&hide_border=false&show_icons=true)
+![](./profile/stats.svg)
+
+![](./profile/top-langs.svg)
 
 ![](https://streak-stats.demolab.com?user=RiteshKrChauhan&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshKrChauhan&theme=dark&hide_border=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
