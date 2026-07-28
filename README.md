@@ -21,11 +21,15 @@
 <br/>
 
 # 📊 GitHub Stats:
-![](./profile/stats.svg)
+<div>
+  <img src="./profile/stats.svg" width="48%">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./profile/top-langs.svg" width="36%">
+</div>
+<br/>
+<br/>
 
-![](./profile/top-langs.svg)
-
-![](https://streak-stats.demolab.com?user=RiteshKrChauhan&theme=dark&hide_border=false)
+![](./profile/streak.svg)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
