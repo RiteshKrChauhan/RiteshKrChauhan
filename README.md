@@ -5,6 +5,7 @@
 <img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/RiteshKrChauhan/RiteshKrChauhan/main/terminal.gif" />
 🌱 Currently diving deeper into **DSA, Backend Development & System Design**
 
+- 💼 Portfolio: **https://riteshkumarchauhan.vercel.app**
 - 📫 How to reach me: **riteshkumarchauhan9@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
